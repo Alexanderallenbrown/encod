@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "Encod.h"
+#include "encod.h"
 // #include "avr/interrupt.h"
 
 
